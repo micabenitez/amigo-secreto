@@ -136,10 +136,17 @@ ul {
 
 .result-list {
     margin-top: 15px;
+    margin-bottom: 30px;
     color: #05DF05;
-    font-size: 22px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
+}
+
+li {
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 5px;
 }
 
 /* Botón de sortear título */
