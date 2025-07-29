@@ -8,8 +8,6 @@ El desafío consiste en aplicar los conocimientos adquiridos durante la formaci�
 
 - Manipulación del DOM
 
-- Validación de formularios
-
 - Interacción con el usuario a través de eventos
 
 
